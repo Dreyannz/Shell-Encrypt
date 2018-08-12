@@ -1,7 +1,7 @@
 # Shell-Encrypt
 Protect Your Script Source Codes
 
-## Supported Distribution
+## Supported Linux Distribution
 *Centos
 
 *Debian
